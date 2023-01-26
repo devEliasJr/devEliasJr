@@ -1,20 +1,25 @@
-# `print("Olá mundo, eu sou o Elias Jr!")`
+## `print("Olá mundo, eu sou o Elias!")`
 
-Here are some ideas to get you started:
+🔭 Desenvolvedor Back-end:
+  - Utilizo como principal linguagem: Python;
+  - Possuo conhecimentos complementares em Front-End e Databases;
 
-🔭 Atuo na área de desenvolvimento back-end:
-  - Tendo como principal linguagem desepenhada: Python;
-- 🌱 Atualmente estou estudando:
-- 💻 
-<!--
+💻 Domínio de Conhecimentos:
+  - Django e Django REST Framework;
+  - FastAPI;
+  - SQL / MySql / Postgress;
+  - Virtualização e containers Docker;
+  - Git e Github;
+  - Html, Css, JavaScript;
 
-- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 Atualmente estou estudando:
+  - Amazon Web Services (AWS);
 
--->
+🎓 Formação Academica:
+  - Ensino Superior: Eng. Mecânica
+
+Mais informações e contato:
+- No momento estou Aberto à propostas de atuação na modalidade Remota;
+- E-mail de contato: <eliasengmecanica@hotmail.com>
+
 
