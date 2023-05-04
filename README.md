@@ -1,8 +1,8 @@
 ## `print("Olá mundo, eu sou o Elias!")`
 
-## 🔭 Desenvolvedor Back-end
-  - Utilizo como principal linguagem o Python;
-  - Possuo conhecimentos complementares em Front-End e Databases;
+## 🔭 Desenvolvedor Full Stack
+  - Utilizo como as principais linguagens: JavaScript(React) e Python (Django);
+  - Possuo conhecimentos complementares em APIs e Databases;
   - Formação Academica: Ensino Superior em Eng. Mecânica;
 
 ## 💻 Campos de atuação
@@ -12,7 +12,7 @@ Frameworks Python e APIs| Django, Django REST Framework, FastAPI
 Databases  | SQL, MySQL, PostgreSQL
 Virtualização e containers | Docker
 Softwares de versionamento | Git e Github
-Conhecimentos de Front-End  | Html, CSS
+Conhecimentos de Front-End  | Html, CSS, JS
 
 ## Mais informações e contato:
 - No momento estou Aberto à propostas de atuação na modalidade Remota;
