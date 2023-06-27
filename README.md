@@ -11,8 +11,8 @@
 Frameworks Python e APIs| Django, Django REST Framework, FastAPI 
 Databases  | Firebase, Mongodb, MySQL, PostgreSQL
 Virtualização e containers | Docker
-Softwares de versionamento | Git e Github
-Conhecimentos de Front-End  | Html, CSS, JS
+Controle e versionamento | Git e Github
+Conhecimentos de Front-End  | Html, JS, React, Css, Sass
 
 ## Mais informações e contato:
 - No momento estou Aberto à propostas de atuação na modalidade Remota;
