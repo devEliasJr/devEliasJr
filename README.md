@@ -9,7 +9,7 @@
  Competências | Domínio de Conhecimentos
 -------------|------------
 Frameworks Python e APIs| Django, Django REST Framework, FastAPI 
-Databases  | SQL, MySQL, PostgreSQL
+Databases  | Firebase, Mongodb, MySQL, PostgreSQL
 Virtualização e containers | Docker
 Softwares de versionamento | Git e Github
 Conhecimentos de Front-End  | Html, CSS, JS
