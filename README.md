@@ -1,4 +1,5 @@
 ## `print("Olá mundo, eu sou o Elias!")`
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEliasJr&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔭 Desenvolvedor Full Stack
   - Utilizo como as principais linguagens: JavaScript(React) e Python (Django);
