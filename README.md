@@ -19,7 +19,7 @@ Conhecimentos de Front-End  | Html, JS, React, Css, Sass
 - No momento estou Aberto à propostas de atuação na modalidade Remota;
 
 <div>
-  <a href="mailto:eliasengmecanica@hotmail.com" target="_blank">
+  <a href="mailto:jreliasdeveloper@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
