@@ -9,7 +9,7 @@
 ## 💻 Campos de atuação
  Competências | Domínio de Conhecimentos
 -------------|------------
-Frameworks Python e APIs| Django, Django REST Framework, FastAPI 
+Frameworks Python e APIs| Node, Django REST Framework, FastAPI 
 Databases  | Firebase, Mongodb, MySQL, PostgreSQL
 Virtualização e containers | Docker
 Controle e versionamento | Git e Github
