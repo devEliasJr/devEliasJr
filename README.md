@@ -1,32 +1,32 @@
-## `print("Olá mundo, eu sou o Elias!")`
+## `console.log("Olá mundo, eu sou o Elias!")`
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-172770?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-junior-253194141/)](https://www.linkedin.com/in/elias-junior-253194141/)
+[![Personal Badge](https://img.shields.io/badge/-Website-172770?style=flat-square&logo=Me&logoColor=white&link=https://eliasdev.tech/)](https://eliasdev.tech/)
+[![Gmail Badge](https://img.shields.io/badge/-contato@eliasdev.tech-172770?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@eliasdev.tech)](mailto:contato@eliasdev.tech)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEliasJr&layout=compact)
 
-## 🔭 Desenvolvedor Full Stack
-  - Utilizo como as principais linguagens: JavaScript(React) e Python (Django);
-  - Possuo conhecimentos complementares em APIs e Databases;
-  - Formação Academica: Ensino Superior em Eng. Mecânica;
+## 👨‍💻 Desenvolvedor Full Stack
+
+- Minha Linguagem principal é o JavaScript | Typescript;
+- Atuo na construção de aplicações no Front-End, Back-End e Mobile;
+- Possuo conhecimentos complementares em APIs e Databases;
+- Formação Academica: Ensino Superior em Eng. Mecânica;
 
 ## 💻 Campos de atuação
- Competências | Domínio de Conhecimentos
--------------|------------
-Frameworks Python e APIs| Node, Django REST Framework, FastAPI 
-Databases  | Firebase, Mongodb, MySQL, PostgreSQL
-Virtualização e containers | Docker
-Controle e versionamento | Git e Github
-Conhecimentos de Front-End  | Html, JS, React, Css, Sass
 
-## Mais informações e contato:
-- No momento estou Aberto à propostas de atuação na modalidade Remota;
+| Stacks                              | Domínio de Conhecimentos                         |
+| ----------------------------------- | ------------------------------------------------ |
+| Front-End Base                      | HTML, CSS, JS, TS                                |
+| Estilos, Padronização e Componentes | Saas, Styled Components, Tailwind CSS, Chakra UI |
+| Interfaces                          | React, Nextjs, React Native                      |
+| Back-end e APIs Rest                | Node.js, Express                                 |
+| Databases                           | MongoDb, MySQL, PostgreSQL, Firebase,            |
+| Controle e versionamento            | Git e Github                                     |
+| Experiencias adicionais c/ deploy   | VPS, Vercel, Netfily, AWS, Vultr                 |
 
-<div>
-  <a href="mailto:jreliasdeveloper@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+## 🔭 Informações Adicionais:
 
-  <a href="https://www.linkedin.com/in/elias-junior-253194141" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+- Projetos relevantes e/ou de código aberto estarão disponpiveis para visualização no meu website,
+- No momento, estarei atuando somente na modalidade remota.
 </div>
-
-
-
