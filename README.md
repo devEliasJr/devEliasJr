@@ -17,10 +17,10 @@
 
 | Stacks                              | Domínio de Conhecimentos                         |
 | ----------------------------------- | ------------------------------------------------ |
-| Linguagens Base                     | HTML, CSS, JS, TS                                |
+| Linguagens Base                     | HTML, CSS, JS, TS, Python                        |
 | Estilos, Padronização e Componentes | Saas, Styled Components, Chakra UI, Material UI  |
 | Interfaces                          | React, Nextjs, React Native                      |
-| Back-end e APIs Rest                | Node.js, Express, Fastfy, Prisma ORM             |
+| Back-end e APIs Rest                | Node.js, Express, Fastfy, Prisma ORM, Django Rest|
 | Databases                           | MySQL, PostgreSQL, Firebase, Mongo Db            |
 | Experiencias adicionais c/ deploy   | VPS, Vercel, Netfily, AWS, Vultr                 |
 | Conainers e virtualização           | Docker e Docker Compose                          |
