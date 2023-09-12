@@ -17,13 +17,15 @@
 
 | Stacks                              | Domínio de Conhecimentos                         |
 | ----------------------------------- | ------------------------------------------------ |
-| Front-End Base                      | HTML, CSS, JS, TS                                |
-| Estilos, Padronização e Componentes | Saas, Styled Components, Tailwind CSS, Chakra UI |
+| Linguagens Base                     | HTML, CSS, JS, TS                                |
+| Estilos, Padronização e Componentes | Saas, Styled Components, Chakra UI, Material UI  |
 | Interfaces                          | React, Nextjs, React Native                      |
-| Back-end e APIs Rest                | Node.js, Express                                 |
-| Databases                           | MongoDb, MySQL, PostgreSQL, Firebase,            |
-| Controle e versionamento            | Git e Github                                     |
+| Back-end e APIs Rest                | Node.js, Express, Fastfy, Prisma ORM             |
+| Databases                           | MySQL, PostgreSQL, Firebase, Mongo Db            |
 | Experiencias adicionais c/ deploy   | VPS, Vercel, Netfily, AWS, Vultr                 |
+| Conainers e virtualização           | Docker e Docker Compose                          |
+| Controle e versionamento            | Git e Github                                     |
+
 
 ## 🔭 Informações Adicionais:
 
