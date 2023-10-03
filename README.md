@@ -11,7 +11,8 @@
 - Minha Linguagem principal é o JavaScript | Typescript;
 - Atuo na construção de aplicações no Front-End, Back-End e Mobile;
 - Possuo conhecimentos complementares em APIs e Databases;
-- Formação Academica: Ensino Superior em Eng. Mecânica;
+- Formação Academica: Ensino Superior em Eng. Mecânica (UNIFEB);
+- Cursando: Pós Graduação MBA em Engenharia de Software (UTFPR);
 
 ## 💻 Campos de atuação
 
