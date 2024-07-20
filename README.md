@@ -30,6 +30,6 @@
 
 ## 🔭 Informações Adicionais:
 
-- Projetos relevantes e/ou de código aberto estarão disponpiveis para visualização no meu website,
+- Projetos relevantes e/ou de código aberto estarão disponíveis para visualização no meu website,
 - No momento, estarei atuando somente na modalidade remota.
 </div>
