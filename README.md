@@ -1,17 +1,16 @@
 ## Olá mundo, eu sou o Elias!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-172770?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-junior-253194141/)](https://www.linkedin.com/in/elias-junior-253194141/)
-[![Personal Badge](https://img.shields.io/badge/-Website-172770?style=flat-square&logo=Me&logoColor=white&link=https://eliasdev.tech/)](https://eliasdev.tech/)
-[![Gmail Badge](https://img.shields.io/badge/-contato@eliasdev.tech-172770?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato@eliasdev.tech)](mailto:contato@eliasdev.tech)
+[![Gmail Badge](https://img.shields.io/badge/-jreliasdeveloper@gmail.com-172770?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jreliasdeveloper@gmail.com)](mailto:jreliasdeveloper@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devEliasJr&layout=compact)
 
 ## 👨‍💻 Desenvolvedor Full Stack
 
-- Minha Linguagem principal é o JavaScript | Typescript;
-- Atuo na construção de aplicações no Front-End, Back-End e Mobile;
-- Possuo conhecimentos complementares em APIs e Databases;
 - MBA em Engenharia de Software pela Universidade Tecnológica Federal do Paraná;
+- Minha Linguagem principal é o JavaScript | Typescript;
+- Atuo na construção de aplicações de ponta à ponta: Front e Back-End;
+- Possuo conhecimentos complementares em infraestrutura e virtualização.
 
 ## 💻 Campos de atuação
 
