@@ -1,4 +1,4 @@
-## "Olá mundo, eu sou o Elias!"
+## Olá mundo, eu sou o Elias!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-172770?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elias-junior-253194141/)](https://www.linkedin.com/in/elias-junior-253194141/)
 [![Personal Badge](https://img.shields.io/badge/-Website-172770?style=flat-square&logo=Me&logoColor=white&link=https://eliasdev.tech/)](https://eliasdev.tech/)
@@ -28,5 +28,4 @@
 | Controle e versionamento            | Git e Github                                     |
 
 
-## 🔭 Líder Técnico | Mr. Turing AI - https://mrturing.ai
-</div>
+## 💼 Líder Técnico | Mr. Turing AI - https://mrturing.ai
